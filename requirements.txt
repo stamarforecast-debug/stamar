@@ -7,7 +7,9 @@ pandas
 seaborn
 smote
 scikit-fuzzy
+imblearn
 
 pip==24.0
+
 
 
