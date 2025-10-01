@@ -8,8 +8,10 @@ seaborn
 smote
 scikit-fuzzy
 imblearn
+plotly
 
 pip==24.0
+
 
 
 
