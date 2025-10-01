@@ -6,6 +6,8 @@ folium
 pandas
 seaborn
 smote
+scikit-fuzzy
 
 pip==24.0
+
 
