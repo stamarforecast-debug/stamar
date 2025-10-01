@@ -1,0 +1,7 @@
+streamlit
+numpy
+matplotlib
+scikit-learn
+folium
+pandas
+pip==24.0
