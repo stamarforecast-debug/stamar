@@ -4,4 +4,6 @@ matplotlib
 scikit-learn
 folium
 pandas
+seaborn
+
 pip==24.0
